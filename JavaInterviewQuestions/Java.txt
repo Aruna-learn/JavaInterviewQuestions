@@ -1,0 +1,2 @@
+Method 1.
+Following are the steps to find the maximum element in the array. Step 1: Create a variable called max and set the array's first member as its starting value. Step 2: Check after running a loop from index 1 to N. Step 3: If arr[i] exceeds max, set max to arr[i].
